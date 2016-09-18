@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP with Observable</string>
+
+    <string name="main_decrement">decrement</string>
+    <string name="main_increment">increment</string>
+    <string name="main_value">%d</string>
+</resources>
